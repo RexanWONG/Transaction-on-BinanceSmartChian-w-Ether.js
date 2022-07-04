@@ -1,11 +1,12 @@
 # Transaction-on-BinanceSmartChian-w-Ether.js
 This javascript program will send 0.05 testnet BNB from one wallet address to another.
 
-**Technology Stack & Tools :**
+**TECHNOLOGY STACK AND TOOLS :**
 1. Javascript (Writing scripts)
 2. Ethers.js (Blockchain Interaction)
 3. Node.js (To run our scripts and install ethers.js)
 4. A node provider 
+5. An editor
 
 **TO RUN THE SCRIPT :**
 
